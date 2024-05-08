@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/hbarry89/keyize-testing/issues"
   },
-  "homepage": "https://github.com/hbarry89/keyize-testing#readme"
+  "homepage": "https://github.com/hbarry89/keyize-testing#readme",
+  "dependencies": {
+    "keyize": "^2.0.0"
+  }
 }
