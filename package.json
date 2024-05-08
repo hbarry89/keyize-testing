@@ -1,0 +1,29 @@
+{
+  "name": "keyize-testing",
+  "version": "1.0.0",
+  "description": "Sample data for testing keyize npm package.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbarry89/keyize-testing.git"
+  },
+  "keywords": [
+    "keyize",
+    "test",
+    "testing",
+    "data",
+    "api",
+    "json",
+    "key",
+    "payload"
+  ],
+  "author": "Huda Barry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbarry89/keyize-testing/issues"
+  },
+  "homepage": "https://github.com/hbarry89/keyize-testing#readme"
+}
